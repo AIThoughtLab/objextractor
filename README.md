@@ -8,3 +8,7 @@ For more details on the structure of the **.xml** file; Please see the folder **
 
 2. Then run the **mergeAllOBJ.py**, it will help to combine all the **.obj** files in an appropriate order to create a whole structure. It will also generate a flip normal **.obj**. 
    This might be useful in some situations. But not necessary if you use the Unity URP (Universal Render Pipeline).
+   
+  
+Make sure minidom is install.
+PS: pip install minidom-ext
